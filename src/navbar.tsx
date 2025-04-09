@@ -5,15 +5,15 @@ export default function Navbar(){
         <ul>
 
             <li>
-                <a className="bimbrownik-buttons" href="/Przepisy">Przepisy</a>
+                <a className="bimbrownik-buttons" href="/About">Przepisy</a>
             </li>
 
             <li>
-                <a className="bimbrownik-buttons" href="/KącikKonesera">Kącik Konesera</a>
+                <a className="bimbrownik-buttons" href="/KacikKonesera">Kącik Konesera</a>
             </li>
 
             <li>
-                <a className="bimbrownik-buttons" href="/Logowanie">Logowanie</a>
+                <a className="bimbrownik-buttons" href="/Login">Logowanie</a>
             </li>
         </ul>
 
